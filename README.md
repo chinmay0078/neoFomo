@@ -6,11 +6,9 @@
 - A quick way to get in pace with the learning community
 - Keep it small but useful, do one thing and do it well
 - Journal based, with daily logging of activities within the learning community
-- Major goals:
-    - Not to let anyone in the community feel [FOMO](https://www.urbandictionary.com/define.php?term=Fomo)
-    - Expose the beginners to various git operations in a collaborative setup
-      viz. pull, fetch, merge, stash, pop, resolving merge conflicts, pull
-      requests and many more.
+- **Major goals:**
+    1. Not to let anyone in the community feel [FOMO](https://www.urbandictionary.com/define.php?term=Fomo)
+    2. Expose the beginners to various git operations in a collaborative setup viz. pull, fetch, merge, stash, pop, resolving merge conflicts, pull requests and many more.
 
 ## Dependencies
 - Community
