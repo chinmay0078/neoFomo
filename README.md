@@ -14,10 +14,10 @@
 - Community
 
 ## Going Further
-- To get the most out of the this repo, read the wiki (in progress..)
-- For frequently asked questions, see the FAQ (will be updated soon..)
+- To get the most out of the this repo, read the [wiki](https://github.com/chinmay0078/neoFomo/wiki) (in progress..)
+- For frequently asked questions, see the [FAQ](https://github.com/chinmay0078/neoFomo) (will be updated soon..)
 
 ## Community
 - For help, support, or if you just want to hang out with us, you can find us here:
-    - Discord (awaiting official permissions..)
-    - Twitter (awaiting official permissions..)
+    - [Discord](https://discord.com/login) (awaiting official permissions..)
+    - [Twitter](https://twitter.com/) (awaiting official permissions..)
