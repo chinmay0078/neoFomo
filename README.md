@@ -23,6 +23,8 @@
 ## Going Further
 - To get the most out of the this repository, read the [wiki](https://github.com/chinmay0078/neoFomo/wiki) (in progress..)
 - For frequently asked questions, see the [FAQ](https://github.com/chinmay0078/neoFomo) (will be updated soon..)
+- We might add a `Discussions` tab for the community members in order to request features without the hassle of opening issues
+- We also have plans for hosting the info shared here on the web
 
 ## Community
 - For help, support, or if you just want to hang out with us, you can find us here:
