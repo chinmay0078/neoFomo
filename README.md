@@ -1,5 +1,12 @@
-# neoFomo
-- One-Stop-Shop for Level-1
+<h1 align="center">neoFomo</h1>
+<h3 align="center">Learning becomes easy when neoCommunity got your back</h3>
+
+<p align="center">
+<img style="padding:10px;" src="https://img.shields.io/badge/Open%20Source-💕%20-9cf?style=for-the-badge"><br>
+<img style="padding:10px;" src="https://img.shields.io/github/contributors/chinmay0078/neoFomo?style=flat-square">
+<img style="padding:10px;" src="https://img.shields.io/github/forks/chinmay0078/neoFomo?label=Forks&style=flat-square">
+<img style="padding:10px;" src="https://img.shields.io/github/stars/chinmay0078/neoFomo?style=flat-square">
+<img style="padding:10px;" src="https://img.shields.io/github/license/chinmay0078/neoFomo?style=flat-square">
 
 ## Goals
 - An easily maintainable resource centre for neo Level-1 students
@@ -14,7 +21,7 @@
 - Community
 
 ## Going Further
-- To get the most out of the this repo, read the [wiki](https://github.com/chinmay0078/neoFomo/wiki) (in progress..)
+- To get the most out of the this repository, read the [wiki](https://github.com/chinmay0078/neoFomo/wiki) (in progress..)
 - For frequently asked questions, see the [FAQ](https://github.com/chinmay0078/neoFomo) (will be updated soon..)
 
 ## Community
