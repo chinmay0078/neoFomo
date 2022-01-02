@@ -17,6 +17,9 @@
     1. Not to let anyone in the community feel [FOMO](https://www.urbandictionary.com/define.php?term=Fomo)
     2. Expose the beginners to various git operations in a collaborative setup viz. pull, fetch, merge, stash, pop, resolving merge conflicts, pull requests and many more.
 
+## How to Contribute ?
+- Refer [CONTRIBUTING.md](https://github.com/chinmay0078/neoFomo/blob/main/CONTRIBUTING.md)
+
 ## Dependencies
 - Community
 
