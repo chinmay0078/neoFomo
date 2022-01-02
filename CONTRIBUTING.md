@@ -30,10 +30,10 @@ of the content.
 
 ### What you can contribute in this repo? :punch:
 
-- You can add your own links for resources in RESOURCES.md
 - You can contribute some **Learning Resources** in the **_RESOURCES.md_** File.
 - You can contribute in [dorm-room](https://github.com/chinmay0078/neoFomo/tree/main/dorm-room) daily logs.
-- You can modify previous 
+- You can modify previous dorm-room logs too
+- Also, you can add your song recommendations here in [neoNimbu](https://github.com/chinmay0078/neoFomo/tree/main/neoNimbu)
 
 
 # Conduct
