@@ -27,7 +27,6 @@ of the content.
 - **Step 3** - Resolve the bugs, mentions provided in the Issues section of the repository. _Also add a description of what changes you have done_.
 - **Step 4** - Add the changes to your repository.
 - **Step 5** - Create a PULL Request. And that's all.
-- **NOTE** - Please start the filename with the platform name on which the problem was solved. For eg if you are submitting graph problem from codechef then mention filename as **(CODECHEF) chefandgraph.cpp**.
 
 ### What you can contribute in this repo? :punch:
 
