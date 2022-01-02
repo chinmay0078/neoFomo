@@ -19,6 +19,7 @@
 
 ## How to Contribute ?
 - Refer [CONTRIBUTING.md](https://github.com/chinmay0078/neoFomo/blob/main/CONTRIBUTING.md)
+- Go through these [Issues](https://github.com/chinmay0078/neoFomo/issues) once
 
 ## Dependencies
 - Community
