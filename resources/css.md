@@ -4,6 +4,7 @@
 2. [Conquering CSS Layout - Kevin Powell](https://courses.kevinpowell.co/conquering-responsive-layouts)
 3. [CSS Reference](https://tympanus.net/codrops/css_reference/)
 4. [CSS Tricks](https://css-tricks.com/)
+5. [Responsive Web Design - freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/#applied-visual-design)
 
 ### Hands-on
 1. [CSS Battle](https://cssbattle.dev/)
