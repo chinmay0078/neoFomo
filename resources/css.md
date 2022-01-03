@@ -7,6 +7,7 @@
 5. Responsive Web Design - freecodecamp - https://www.freecodecamp.org/learn/responsive-web-design/#applied-visual-design
 
 ### Hands-on
+0. [100 days CSS](https://100dayscss.com/)
 1. [CSS Battle](https://cssbattle.dev/)
 2. [Frontend Mentor](https://www.frontendmentor.io/)
 3. [Dev Challenges](https://devchallenges.io/)
