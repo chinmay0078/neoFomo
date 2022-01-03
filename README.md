@@ -8,6 +8,9 @@
 <img style="padding:10px;" src="https://img.shields.io/github/stars/chinmay0078/neoFomo?style=flat-square">
 <img style="padding:10px;" src="https://img.shields.io/github/license/chinmay0078/neoFomo?style=flat-square">
 
+## Disclaimer
+- This is an unofficial resource centre being maintained by Level 1 neoStudents
+
 ## Goals
 - An easily maintainable resource centre for neo Level-1 students
 - A quick way to get in pace with the learning community
