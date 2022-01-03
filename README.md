@@ -11,6 +11,7 @@
 ## Disclaimer
 - This is an unofficial resource centre being maintained by Level 1 neoStudents
 - Here, you can find learning [resources](https://github.com/chinmay0078/neoFomo/tree/main/resources)
+- For quickly going through the files, use the [Octotree](https://chrome.google.com/webstore/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc) chrome extension
 
 ## Goals
 - An easily maintainable resource centre for neo Level-1 students
